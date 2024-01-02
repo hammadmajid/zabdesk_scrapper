@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fc2746d-f48f-4b35-bef5-fd6760ba936e" name="Changes" comment="update workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zabdesk_scrapper" />
@@ -94,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704173656041</updated>
       <workItem from="1704173662585" duration="2255000" />
-      <workItem from="1704176182569" duration="845000" />
+      <workItem from="1704176182569" duration="1471000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -120,7 +125,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704175693130</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="login and print page source">
+      <option name="closed" value="true" />
+      <created>1704177552300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704177552300</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update workspace.xml">
+      <option name="closed" value="true" />
+      <created>1704177567149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704177567149</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="add requirements.txt" />
+    <MESSAGE value="login and print page source" />
     <MESSAGE value="update workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="update workspace.xml" />
   </component>
